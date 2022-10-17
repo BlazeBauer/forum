@@ -1,0 +1,33 @@
+header {
+    width: 100%;
+    height: 70px;
+    background-color: blue;
+}
+
+body {
+    background-color: yellow;
+}
+
+.maindiv {
+    height: 400px;
+    width: 60%;
+    margin: 20px;
+    background-color: blue;
+    float: left;
+}
+
+.sidediv {
+    height: 600px;
+    width: 30%;
+    margin: 20px;
+    background-color: blue;
+    float: left;
+}
+
+.altdiv {
+    height: 300px;
+    width: 90%;
+    margin: 20px;
+    background-color: blue;
+    float: left;
+}
