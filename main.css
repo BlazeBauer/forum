@@ -64,6 +64,7 @@ body {
     margin: 20px;
     background-color: blue;
     float: left;
+    border-style: double;
 }
 
 .sidediv {
@@ -72,6 +73,28 @@ body {
     margin: 20px;
     background-color: blue;
     float: left;
+    border-style: double;
+}
+
+.vertical-menu {
+    width: 100%; /* Set a width if you like */
+}
+  
+.vertical-menu a {
+  background-color: #eee; /* Grey background color */
+  color: black; /* Black text color */
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+  background-color: #04AA6D; /* Add a green color to the "active/current" link */
+  color: white;
 }
 
 .altdiv {
@@ -80,4 +103,5 @@ body {
     margin: 20px;
     background-color: blue;
     float: left;
+    border-style: double;
 }
