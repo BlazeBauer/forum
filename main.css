@@ -1,14 +1,14 @@
 header {
     width: 100%;
     height: 70px;
-    background-color: blue;
+    background-color: #CC0066;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #FF4D4D;
   }
   
   li {
@@ -17,14 +17,14 @@ ul {
   
   li a, .dropbtn {
     display: inline-block;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: #CC0066;
   }
   
   li.dropdown {
@@ -55,14 +55,14 @@ ul {
   }
 
 body {
-    background-color: yellow;
+    background-color: #660022;
 }
 
 .maindiv {
     height: 600px;
     width: 69%;
     margin: 20px;
-    background-color: blue;
+    background-color: #FF4D4D;
     float: left;
     border-style: double;
 }
@@ -71,7 +71,7 @@ body {
     height: 600px;
     width: 25%;
     margin: 20px;
-    background-color: blue;
+    background-color: #CC0066;
     float: left;
     border-style: double;
 }
@@ -99,9 +99,65 @@ body {
 
 .altdiv {
     height: 300px;
-    width: 97%;
+    width: 95%;
     margin: 20px;
     background-color: blue;
     float: left;
     border-style: double;
+}
+
+.indexbox1 {
+    height: 300px;
+    width: 40%;
+    margin: 20px;
+    background-color: #CC0066;
+    float: left;
+    border-style: double;
+}
+
+.indexbox1 form input[type="text"] {
+  margin-left: 25%;
+  margin-top: 50px;
+  width: 200px;
+  height: 30px;
+  border: 2px solid #660022;
+  border-radius: 4px;
+}
+.indexbox1 form input[type="password"] {
+  margin-left: 25%;
+  margin-top: 40px;
+  width: 200px;
+  height: 30px;
+  border: 2px solid #660022;
+  border-radius: 4px;
+}
+.indexbox1 form input[type="submit"] {
+  margin-left: 39%;
+  margin-top: 45px;
+  height: 40px;
+  width: 80px;
+  border: 2px solid #660022;
+  border-radius: 4px;
+}
+
+
+.indexbox2 {
+  height: 300px;
+  width: 51%;
+  margin: 20px;
+  background-color: #CC0066;
+  float: left;
+  border-style: double;
+
+
+}
+
+.indexbox3 {
+  height: 200px;
+  width: 95%;
+  margin: 20px;
+  background-color: #CC0066;
+  float: left;
+  border-style: double;
+
 }
