@@ -1,8 +1,12 @@
+body {
+  font-family: 'Noto Sans Mono';
+}
 header {
     width: 100%;
     height: 70px;
     background-color: #CC0066;
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -81,11 +85,12 @@ body {
 }
   
 .vertical-menu a {
-  background-color: #eee; /* Grey background color */
+  background-color: #FF4D4D; /* Grey background color */
   color: black; /* Black text color */
   display: block; /* Make the links appear below each other */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
+  border-style: double;
 }
 
 .vertical-menu a:hover {
@@ -101,9 +106,68 @@ body {
     height: 300px;
     width: 95%;
     margin: 20px;
-    background-color: blue;
+    background-color: #CC0066;
     float: left;
     border-style: double;
+}
+.altdiv1 {
+  height: 255px;
+  width: 30%;
+  margin: 20px;
+  background-color: #660022;
+  float: left;
+  border-style: double;
+}
+.altdiv1-1 {
+  height: 210px;
+  width: 40%;
+  margin: 20px;
+  background-color: #660022;
+  float: left;
+  border-style: double;
+}
+
+.altdiv1-1 h1 {
+  font-size: 14px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #f9f9f9;
+}
+.altdiv1-1 h2 {
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #f9f9f9;
+  text-align: center;
+}
+.altdiv1-1 h3 {
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #f9f9f9;
+  text-align: center;
+}
+
+.altdiv img {
+  width: 42%;
+  height: 210px;
+  float: left;
+  margin: 20px;
+  border-style: double;
+}
+
+.altdiv2 {
+  height: 255px;
+  width: 30%;
+  margin: 20px;
+  background-color: #660022;
+  float: left;
+  border-style: double;
+}
+.altdiv3 {
+  height: 255px;
+  width: 30%;
+  margin: 20px;
+  background-color: #660022;
+  float: left;
+  border-style: double;
 }
 
 .indexbox1 {
