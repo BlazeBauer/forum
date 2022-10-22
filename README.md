@@ -1,14 +1,17 @@
 ## Dark Red
-Dark/BG = #591d1d
+Dark/BG = #590101
 
 ## Red
-Main = #a33333
+Main = #8c0303
 
 ## Bright Red
-Alt = #a31414
+Alt = #cc0202
 
 ## Light Red
-Alt 2 = #963e3e
+Alt 2 = #9e2c2c
 
 ## White Red
 White = #963e3e
+
+## White Red 2
+White = #965050
