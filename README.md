@@ -2,7 +2,7 @@
 Dark/BG = #590101
 
 ## Red
-Main = #8c0303
+Main = #a10303
 
 ## Bright Red
 Alt = #cc0202
