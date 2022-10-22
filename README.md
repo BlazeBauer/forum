@@ -3,11 +3,17 @@
 
 ## Colors
 
-Dark/BG = 660022
+#Dark Red
+Dark/BG = #591d1d
 
+#Red
+Main = #a33333
 
-Main = FF4D4D
+#Bright Red
+Alt = #a31414
 
+#Light Red
+Alt 2 = #963e3e
 
-Alt = CC0066 
-Debian Red
+#White Red
+White = #963e3e
