@@ -15,3 +15,6 @@ White = #963e3e
 
 ## White Red 2
 White = #965050
+
+## White For Articles
+White = #cca1a1
