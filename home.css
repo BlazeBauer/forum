@@ -1,0 +1,17 @@
+.maindiv {
+  height: 600px;
+  width: 69%;
+  margin: 20px;
+  background-color: #9e2c2c;
+  float: left;
+  border-style: double;
+}
+
+.home1 {
+  height: 565px;
+  width: 97%;
+  margin: 15px;
+  background-color: #9e2c2c;
+  float: left;
+  border-style: double;
+}
