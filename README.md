@@ -18,3 +18,6 @@ White = #965050
 
 ## White For Articles
 White = #cca1a1
+
+
+font-family: Garamond, serif;
